@@ -103,7 +103,7 @@ body{
     margin: 1rem;
     filter: drop-shadow(0 .5rem .85rem hsl(225, 87%, 76%));
     font-size: .8rem;
-    
+    cursor:pointer;
 } 
 
 .card__button-payment:hover{
@@ -118,4 +118,5 @@ body{
     text-align: center;
     margin: 1rem;
     font-size: .8rem;
+    cursor:pointer;
 }
